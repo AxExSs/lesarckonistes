@@ -1,16 +1,26 @@
 body {
     margin: auto;
-
 }
 
 h1 {
-    font-weight: 300;
-    margin-bottom: 1%;
-    margin-top: 0%;
     text-align: center;
-    text-transform: uppercase;
 }
 
-.menu {
+.button {
     text-align: center;
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
 }
