@@ -9,6 +9,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
 .button {
     text-align: center;
     color: white;
@@ -26,4 +30,13 @@ a:hover {
 a:visited {
     text-decoration: none;
     color: white;
+}
+
+.text {
+    border: 0ch;
+}
+
+img {
+    width: 5%;
+    height: 5%;
 }
