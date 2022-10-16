@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    background-image : url(../images/Les\ Arckonistes2.jpg);
+    background-size: cover;
+    color : white;
+}
+
+video {
+    width: 30%;
+    height: 30%;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
