@@ -2,7 +2,7 @@ body {
     margin: auto;
     background-image : url(../images/Les\ Arckonistes2.jpg);
     background-size: cover;
-    color : white;
+    color : grey;
 }
 
 h1 {
@@ -53,3 +53,4 @@ img {
 .easter {
     color: black;
 }
+
