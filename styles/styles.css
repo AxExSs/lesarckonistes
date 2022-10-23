@@ -1,23 +1,29 @@
 body {
     margin: auto;
-    background-image : url(../images/Les\ Arckonistes2.jpg);
+    background-image: url(../images/Les\ Arckonistes2.jpg);
     background-size: cover;
-    color : grey;
+    color: grey;
 }
 
 h1 {
     text-align: center;
     background: url(../images/bicolore\ bw.jpg);
     -webkit-background-clip: text;
-    background-clip : text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: text 7.5s linear infinite;
 }
 
 @keyframes text {
-    from { background-position: 0% 50%;}
-    to   { background-position: 100% 100%;}
+    from {
+        background-position: 0% 50%;
+    }
+
+    to {
+        background-position: 100% 100%;
+    }
 }
+
 h2 {
     text-align: center;
 }
@@ -54,3 +60,7 @@ img {
     color: black;
 }
 
+.actu {
+    width: 200%;
+    height: 200%;
+}
